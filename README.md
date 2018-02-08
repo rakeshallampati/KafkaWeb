@@ -18,4 +18,4 @@ Follow the  below steps to run the app
 	}
 	The topic name is "test" - given in the java files
 
-3) use the Sample consumer file to run the kafka consumer or a kafka-console-producer to validate the result.
+3) use the Sample consumer file to run the kafka consumer or a kafka-console-consumer to validate the result.
